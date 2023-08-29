@@ -1,7 +1,7 @@
 
 ![QGIS](/create-themes/assets/qgis.png) 
 
-# Scripts para automação com PyQGIS
+# Scripts para automação no QGIS com PyQGIS
 
 Este repositório foi criado para publicação de scripts para automação de tarefas no QGIS por meio do Pyqgis.
 
