@@ -2,7 +2,7 @@
 
 Este script permite que usuários do qgis agilize a produção de mapas usando a funcionalidade themas do Qgis, usando Pyqgis.
 
-## Que problema o script resolve?
+### Que problema o script resolve?
 
 Este script foi elaborado para otimizar a produção de mapas no QGIS, quando se tem a necessidade de produzir muitos temas.
 
