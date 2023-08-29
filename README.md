@@ -15,7 +15,7 @@ Para isso o usuário precisa selecionar as camadas que serão utilizadas em cada
 
 A criação de temas, por sua vez, torna-se trabalhosa se o projeto tiver muitos temas. Por exemplo: Se o projeto tiver 1000 mapas, serão 1000 temas relacionados e "N" camadas para cada tema configurados manualmente.
 
-### Como eu faço para utilizar o script?
+### Como utilizar o script?
 
 Para otimizar essa tarefa execute o passo a passo abaixo:
 
