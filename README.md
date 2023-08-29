@@ -1,4 +1,4 @@
-# Map theme maker in Pyqgis <a href="readme.md"><img src="/assets/eua.png"></a>
+# Map theme maker in Pyqgis
 
 Este script permite que usuários do qgis agilize a produção de mapas usando a funcionalidade themas do Qgis, usando Pyqgis.
 
@@ -34,5 +34,4 @@ Se você tiver camadas ativas o script montará um novo tema para cada camada da
 
 ## Tecnologias utilizadas
 
-- <a href="https://docs.qgis.org/3.28/en/docs/pyqgis_developer_cookbook/index.html" target="_blank">PyQGIS</a>
-- [PyQGIS](https://docs.qgis.org/3.28/en/docs/pyqgis_developer_cookbook/index.html){target="_blank"}
+- [PyQGIS](https://docs.qgis.org/3.28/en/docs/pyqgis_developer_cookbook/index.html)
