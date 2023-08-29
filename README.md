@@ -34,4 +34,4 @@ Se você tiver camadas ativas o script montará um novo tema para cada camada da
 
 ## Tecnologias utilizadas
 
-- [PyQGIS](https://docs.qgis.org/3.28/en/docs/pyqgis_developer_cookbook/index.html){:target="_blank"};
+- [PyQGIS](https://docs.qgis.org/3.28/en/docs/pyqgis_developer_cookbook/index.html){:target="_blank" rel="noopener"};
