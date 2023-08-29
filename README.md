@@ -1,7 +1,7 @@
 
 ![QGIS](/create-themes/assets/qgis.png) 
 
-# Criador de temas de mapas em Pyqgis
+# Criador de temas de mapas em PyQGIS
 
 Este script permite que usuários do qgis agilizem a produção de mapas usando a funcionalidade themas do Qgis, usando Pyqgis.
 
